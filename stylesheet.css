@@ -10,29 +10,6 @@ html{
 	height:600px;
 	line-height:300px;
 	margin:-130px -8px 0px -8px;
-}#artHeading{
-	background: url(doodles.jpg) no-repeat center center fixed; 
-  	-webkit-background-size: cover;
-  	-moz-background-size: cover;
-  	-o-background-size: cover;
-  	background-size: cover;
-	height:600px;
-	line-height:800px;
-	margin:-130px -8px 0px -8px;
-}#projectsHeading{
-	background: url(statespeech.jpg) no-repeat center center fixed; 
-  	-webkit-background-size: cover;
-  	-moz-background-size: cover;
-  	-o-background-size: cover;
-  	background-size: cover;
-	height:600px;
-	line-height:275px;
-	margin:-130px -8px 0px -8px;
-}#artHeading h1{
-	text-align: center;
-	height: 600px;
-	line-height: 600px;
-	color: #999999;
 }h1{
 	font-size: 12em;
 	text-align: center;
