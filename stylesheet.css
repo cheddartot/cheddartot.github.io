@@ -1,9 +1,8 @@
 html{
 	font-family:Corbel, sans-serif;
-	background-color: #001d35;
 }.centerscroll{
 	width: 1000px;
-	background-color: pink;
+	background-color: #f8d088;
 	margin-left: auto;
 	margin-right: auto;
 	padding-top: 10px;
@@ -30,4 +29,12 @@ html{
 }.SiteLink{
 	font-size: 2em;
 	text-align: center;
+}body{
+	min-height: 100vh;
+	background-image: url("./images/yoshibg.gif");
+	background-attachment: fixed;
+	background-position: bottom;
+	background-repeat: repeat-x;
+	margin: 0px;
+	background-color: #F8B8A8;
 }
